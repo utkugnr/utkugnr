@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utku Guner</h1>
 <h3 align="center">Computer Science student. A passionate developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **.Net Framework**
 
 - 📝 I regularly write articles on [https://medium.com/@utkuguner](https://medium.com/@utkuguner)
 
